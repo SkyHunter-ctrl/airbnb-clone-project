@@ -1,5 +1,7 @@
 # airbnb-clone-project
 A scalable online Airbnb for booking and payments
+
+Team Roles
 Business analyst (BA)
     Understands customer’s business processes
     Translates customer business needs into requirements
